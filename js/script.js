@@ -1,6 +1,4 @@
-// console.log("Hey There!!");
-// console.log(document);
-const student = {
+const studentu = {
   name: "kabbo",
   id: 21,
   study: function (sub) {
